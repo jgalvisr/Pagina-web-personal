@@ -1,0 +1,77 @@
+#about-me, #about-me-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#img-me {
+  border: 1px solid black;
+}
+
+#education, #experience, #interests, #skills, #contact {
+  justify-content: center;
+  text-align: center;
+}
+
+#experience {
+  text-align: left;
+}
+
+#skills {
+  text-align: left;
+}
+
+#education-cards {
+  display: flex;
+  justify-content: center;
+}
+
+#form {
+  text-align: left;
+}
+
+#big-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: lightgrey;
+  color: black;
+  text-align: center;
+}
+
+.container-fluid {
+  font-family: 'Poppins', sans-serif;
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: auto;
+  padding-bottom: auto;
+  background-color: rgb(238, 238, 238);
+}
+
+.section-title {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.card {
+  text-align: left;
+}
+
+.ed-card {
+  display: flex;
+  justify-content: center;
+}
+
+header {
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
